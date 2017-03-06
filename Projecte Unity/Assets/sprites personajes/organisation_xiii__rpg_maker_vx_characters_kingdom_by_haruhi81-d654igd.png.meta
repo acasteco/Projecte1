@@ -1,0 +1,1386 @@
+fileFormatVersion: 2
+guid: 4d2a2be8ac6456f4fad0cf183531e637
+timeCreated: 1487871825
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: enemy front 1
+    21300002: enemy front 2
+    21300004: enemy front 3
+    21300006: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_3
+    21300008: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_4
+    21300010: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_5
+    21300012: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_6
+    21300014: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_7
+    21300016: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_8
+    21300018: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_9
+    21300020: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_10
+    21300022: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_11
+    21300024: enemy left 1
+    21300026: enemy left 2
+    21300028: enemy left 3
+    21300030: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_15
+    21300032: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_16
+    21300034: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_17
+    21300036: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_18
+    21300038: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_19
+    21300040: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_20
+    21300042: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_21
+    21300044: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_22
+    21300046: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_23
+    21300048: enemy right 1
+    21300050: enemy right 2
+    21300052: enemy right 3
+    21300054: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_27
+    21300056: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_28
+    21300058: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_29
+    21300060: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_30
+    21300062: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_31
+    21300064: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_32
+    21300066: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_33
+    21300068: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_34
+    21300070: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_35
+    21300072: enemy back 1
+    21300074: enemy back 2
+    21300076: enemy back 3
+    21300078: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_39
+    21300080: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_40
+    21300082: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_41
+    21300084: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_42
+    21300086: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_43
+    21300088: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_44
+    21300090: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_45
+    21300092: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_46
+    21300094: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_47
+    21300096: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_48
+    21300098: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_49
+    21300100: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_50
+    21300102: hero front 1
+    21300104: hero front 2
+    21300106: hero front 3
+    21300108: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_54
+    21300110: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_55
+    21300112: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_56
+    21300114: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_57
+    21300116: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_58
+    21300118: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_59
+    21300120: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_60
+    21300122: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_61
+    21300124: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_62
+    21300126: hero left side 1
+    21300128: hero left side 2
+    21300130: hero left side 3
+    21300132: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_66
+    21300134: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_67
+    21300136: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_68
+    21300138: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_69
+    21300140: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_70
+    21300142: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_71
+    21300144: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_72
+    21300146: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_73
+    21300148: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_74
+    21300150: hero right side 1
+    21300152: hero right side 2
+    21300154: hero right side 3
+    21300156: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_78
+    21300158: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_79
+    21300160: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_80
+    21300162: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_81
+    21300164: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_82
+    21300166: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_83
+    21300168: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_84
+    21300170: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_85
+    21300172: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_86
+    21300174: hero back 1
+    21300176: hero back 2
+    21300178: hero back 3
+    21300180: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_90
+    21300182: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_91
+    21300184: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_92
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemy front 1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy front 2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy front 3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy left 1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy left 2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy left 3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy right 1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy right 2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy right 3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy back 1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy back 2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy back 3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 129
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero front 1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero front 2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero front 3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero left side 1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero left side 2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero left side 3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 64
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero right side 1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero right side 2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero right side 3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_83
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero back 1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero back 2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero back 3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: organisation_xiii__rpg_maker_vx_characters_kingdom_by_haruhi81-d654igd_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
